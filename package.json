@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "pro.db-arzex": "^3.0.8"
+  }
+}
